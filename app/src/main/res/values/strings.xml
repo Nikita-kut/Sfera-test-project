@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sfera-test-project</string>
+    <string name="button_text"><![CDATA[filter user age <= 18]]></string>
+    <string name="btn_show_all_text">show all users</string>
+</resources>
